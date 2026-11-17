@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1qVRZYN3bggiRmwVyka1bqugVtLShidYl
 """
 
+# pip install -r bibliotecas.txt
 import torch
 import torch.nn as nn
 import torch.optim as optim
